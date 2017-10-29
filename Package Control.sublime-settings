@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Bootstrap 4 Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"jQuery",
+		"JsFormat",
+		"Oceanic Next Color Scheme",
+		"Open Folder",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Search WordPress Codex or QueryPosts",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"WordPress"
+	]
+}
